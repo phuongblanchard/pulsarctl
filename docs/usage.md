@@ -7,3 +7,4 @@ Notes and usage details for pulsarctl.
 - clarify the setup steps
 - fix a small wording issue
 - fix a small wording issue
+- link the usage section
