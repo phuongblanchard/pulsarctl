@@ -32,3 +32,4 @@ Notes and usage details for pulsarctl.
 - clarify the setup steps
 - link the usage section
 - clarify the setup steps
+- link the usage section
